@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+
+.container{
+    margin-bottom: 10rem;
+    font-family:  'Lora', serif;
+}
+
+h2{
+    font-size: 1.7rem;
+    text-shadow:   #302900;
+}
+
+p{
+    font-size: 1.5rem;
+}
